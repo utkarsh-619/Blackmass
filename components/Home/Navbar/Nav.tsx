@@ -9,7 +9,7 @@ const Nav = () => {
     return (
         <div className='w-full h-[vh]'>
             <div className='w-[95%] sm:w-[85%] md:w-[80%] h-full mx-auto flex items-center justify-between'>
-                <Image src="/images/logo.png" alt="logo" width={120} height={100} />
+                <Image src="/images/logo.svg" alt="logo" width={120} height={100} />
                 {/* navLinks */}
                 <div className='lg:flex hidden items-center space-x-10'>
                     {navLinks.map((link)=>{
