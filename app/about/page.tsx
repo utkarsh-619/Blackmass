@@ -14,36 +14,22 @@ const HomePage = () => {
 
         <div className="m-auto w-[80%] mt-16">
           <div className="mb-8">
-            <h1 className="text-6xl font-semiboldbold ">We Are BlackMass</h1>
+            <h1 className="text-6xl font-semiboldbold ">We Are BlackMass Energies</h1>
           </div>
           <div>
             <p className="text-xl font-extralight leading-9 mb-3">
-              Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nulla
-              dicta id deleniti impedit inventore, quis natus aperiam et
-              voluptatibus cumque necessitatibus dignissimos ullam, voluptatem ut
-              minima reiciendis error a tempore.{" "}
-              <span className="text-green-700 font-semibold">
-                Lorem sit amet consectetur
-              </span>{" "}
-              adipisicing elit. Natus fuga, dolorum tempore animi vero expedita
-              numquam harum ex beatae cum libero tenetur excepturi ipsa error
-              corrupti dolor vitae voluptates! Dolorem?
+              At Black Mass Energies, we are at the forefront of India’s sustainable energy revolution. Our core expertise lies in the recycling of lithium-ion EV batteries, where we meticulously extract crucial materials such as black mass, lithium, and cobalt. We are driven by a singular mission: to ensure that lithium, once in the country, never exits, thereby fostering a closed-loop economy that supports our nation’s growing electric vehicle (EV) demands.
+            </p>
+
+            <p className="text-xl font-extralight leading-9 mb-3">
+              Our commitment extends beyond recycling; we are dedicated to promoting sustainable and green environments. By transforming end-of-life batteries into valuable resources, we contribute significantly to reducing waste and preserving our planet. As India embraces the shift to electric mobility, Black Mass Energies stands as a key player in powering this transition with recycled, high-quality lithium and other essential metals.
             </p>
 
             <p className="text-xl font-extralight leading-9">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Nulla
-              quidem molestiae maiores, voluptates perferendis modi ad dignissimos
-              ea facere porro! Ad molestias veritatis consectetur quidem.{" "}
-              <span className="text-green-700 font-semibold">
-                Lorem sit amet consectetur
-              </span>{" "}
-              praesentium doloribus modi quaerat eos! Lorem ipsum dolor sit, amet
-              consectetur adipisicing elit. Natus consectetur tenetur voluptatum
-              molestiae est repudiandae modi autem quod illum doloribus aliquam,
-              assumenda laborum. Ex doloremque, voluptatem eligendi dolorum amet
-              voluptate?
+              Join us in our journey towards a sustainable future, where we not only meet the energy needs of today but also pave the way for a greener, more resilient tomorrow.
             </p>
           </div>
+
         </div>
       </div>
       <section>
@@ -52,8 +38,7 @@ const HomePage = () => {
             <h2 className="text-xl font-bold text-gray-900 sm:text-3xl">Founders</h2>
 
             <p className="mt-4 max-w-md text-gray-500">
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Itaque praesentium cumque iure
-              dicta incidunt est ipsam, officia dolor fugit natus?
+              Meet the founders of Black Mass Energies, the pioneers of India's sustainable energy revolution.
             </p>
           </header>
 
@@ -102,7 +87,7 @@ const HomePage = () => {
                   <p className="mt-2">
                     <span className="sr-only"> Regular Price </span>
 
-                    <span className="tracking-wider text-gray-900">With 2 years of corporate sales expertise and 3 years of experience in startup building and fundraising, Bringing a strategic and innovative approach to driving business growth and securing capital. </span>
+                    <span className="tracking-wider text-gray-900">Having 3 years of Experience in Startup fund raising </span>
                   </p>
                 </div>
               </a>
