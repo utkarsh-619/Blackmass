@@ -11,7 +11,7 @@ export const navLinks = [
     },
     {
         id: 3,
-        url: "/explore",
+        url: "/explore/recycling",
         label: "Explore",
     },
     {
