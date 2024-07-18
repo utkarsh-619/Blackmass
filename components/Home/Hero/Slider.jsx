@@ -38,6 +38,12 @@ export default function slider() {
             </li>
             <li>
               <img
+                src="/images/real/collab3.jpg"
+                className="w-50 max-w-full max-h-full m-auto"
+              />
+            </li>
+            <li>
+              <img
                 src="/images/real/plant.jpg"
                 className="w-50 max-w-full max-h-full m-auto"
               />

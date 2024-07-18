@@ -1,7 +1,6 @@
-import React from "react";
-import Image from "next/image";
 import collab1 from "@/public/images/real/collab.jpeg";
 import collab2 from "@/public/images/real/collab2.jpg";
+import Image from "next/image";
 
 const blogPage = () => {
   return (
@@ -27,8 +26,7 @@ const blogPage = () => {
                   Our Recent News
                 </h2>
                 <p className="text-base text-body-color">
-                  There are many variations of passages of Lorem Ipsum available
-                  but the majority have suffered alteration in some form.
+                Leading the charge in sustainable lithium-ion EV battery recycling ♻️
                 </p>
               </div>
             </div>
@@ -46,19 +44,7 @@ const blogPage = () => {
                 </div>
                 <div>
                   <span
-                    className="
-                     bg-primary
-                     rounded
-                     inline-block
-                     text-center
-                     py-1
-                     px-4
-                     text-xs
-                     leading-loose
-                     font-semibold
-                     text-white
-                     mb-5
-                     "
+                    className="bg-primary rounded inline-block text-center py-1 px-4 text-xs leading-loose font-semibold text-white mb-5"
                   >
                     Dec 22, 2023
                   </span>
