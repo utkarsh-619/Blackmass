@@ -5,7 +5,7 @@ import media1 from "@/public/images/real/StockCake-Electric Vehicle Charging_172
 const ContactPage = () => {
   return (
     <div>
-      <div className="flex justify-center bg-gray-50">
+      <div className="flex justify-center bg-gray-50 pt-10">
         <div className="w-[40%]">
           <Image src={media1} alt="About Lithiam-ion" />
         </div>
