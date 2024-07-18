@@ -30,7 +30,7 @@ const Page = () => {
                     <h1 className="text-6xl font-semibold">Recycling</h1>
                 </div>
                 <div>
-                    <p className="text-xl font-extralight leading-9 mb-3">
+                    <p className="text-xl leading-9 mb-3 font-mono font-thin">
                         Our core strength lies in our innovation and technological prowess <span className="text-green-700 font-bold">that gives an unprecedented edge to our recycling operations.</span> Our recycling technology aims <span className="text-green-700 font-bold">to take today’s waste and turn it into conflict-free, sustainable resources for tomorrow.</span> End of life electronics is recycled <span className="text-green-00">at our state-of-the-art recycling plant, using disruptive technology, to extract reusable materials.</span> Developed in house, at our R&D facility, our recycling technology ensures <span className="text-green-700 font-bold">that e-Waste is processed in an environmentally friendly manner, with high efficiency and lowered carbon footprint.</span>
                     </p>
 
