@@ -16,8 +16,8 @@ export const navLinks = [
     },
     {
         id: 4,
-        url: "#",
-        label: "Media",
+        url: "/blog",
+        label: "Blogs",
     },
     {
         id: 5,
