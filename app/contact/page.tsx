@@ -5,17 +5,16 @@ import media1 from "@/public/images/real/StockCake-Electric Vehicle Charging_172
 const ContactPage = () => {
   return (
     <div>
-      <div className="flex justify-center bg-gray-50 pt-10">
-        <div className="w-[40%]">
-          <Image src={media1} alt="About Lithiam-ion" />
+      <div className="flex flex-col lg:flex-row justify-center bg-gray-50 pt-10">
+        <div className="w-full lg:w-[40%] mb-5 lg:mb-0">
+          <Image src={media1} alt="About Lithiam-ion" className="w-full h-auto" />
         </div>
 
-        <div className="w-[30%] ml-[5%]">
-          <h1 className="text-5xl font-bold text-green-900 mt-10">Contact Us :)</h1>
-          <p className="text-xl mt-5 text-gray-700">Fill up the given form</p>
+        <div className="w-full lg:w-[30%] lg:ml-[5%]">
+          <h1 className="text-3xl lg:text-5xl font-bold text-green-900 mt-10 text-center lg:text-left">Contact Us :)</h1>
+          <p className="text-lg lg:text-xl mt-5 text-gray-700 text-center lg:text-left">Fill up the given form</p>
         </div>
       </div>
-
 
       <section className="bg-gray-50">
         <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 lg:px-8">
