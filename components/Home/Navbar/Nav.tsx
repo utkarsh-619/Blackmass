@@ -7,7 +7,7 @@ import { BiAlbum, BiSearch, BiUser, BiWallet } from 'react-icons/bi';
 import { FaBars } from 'react-icons/fa';
 const Nav = () => {
     return (
-        <div className='w-full h-[vh] bg-gray-200 mb-10'>
+        <div className='w-full h-[vh] bg-gray-100 mb-5'>
             <div className='w-[95%] sm:w-[85%] md:w-[80%] h-full mx-auto flex items-center justify-between'>
                 <Image src="/images/logo.svg" alt="logo" width={120} height={100} className='rounded-[50%]' />
                 {/* navLinks */}
