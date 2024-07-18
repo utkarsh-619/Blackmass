@@ -5,9 +5,9 @@ import AOS from 'aos';
 import 'aos/dist/aos.css';
 
 import media1 from '@/public/images/real/StockCake-Colorful Recycling Bins_1720800994.jpg';
-import media2 from '@/public/images/recylcle1.webp';
-import media3 from '@/public/images/recycle2.jpg';
-import media4 from '@/public/images/recycle3.jpg';
+import media2 from '@/public/images/real/StockCake-Electronic Waste Pile_1720801178.jpg';
+import media3 from '@/public/images/real/StockCake-Electric Car Charging_1720801156.jpg';
+import media4 from '@/public/images/real/StockCake-Charging Electric Vehicle_1720801074.jpg';
 import Slider from '@/components/Home/Hero/Slider'
 
 
@@ -43,17 +43,15 @@ const Hero = () => {
 
                             <div className="p-8 sm:p-16 lg:p-24">
                                 <h2 className="text-2xl font-bold sm:text-3xl">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tempore, debitis.
+                                    Leading the charge in sustainable lithium-ion EV battery recycling ♻️
+
                                 </h2>
 
                                 <p className="mt-4 text-gray-600">
-                                    Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid, molestiae! Quidem est
-                                    esse numquam odio deleniti, beatae, magni dolores provident quaerat totam eos, aperiam
-                                    architecto eius quis quibusdam fugiat dicta.
-                                </p>
+                                    Leading the charge in sustainable lithium-ion EV battery recycling is essential for minimizing the environmental impact of electric vehicles. Effective recycling recovers valuable materials like lithium, cobalt, and nickel, reducing the need for new mining and conserving natural resources. Proper recycling also prevents soil and water contamination from improper disposal. By advancing recycling technologies and infrastructures, we can ensure the shift to electric mobility is truly green, fostering a cleaner and more sustainable future.                                </p>
 
                                 <a
-                                    href="#"
+                                    href="/contact"
                                     className="mt-8 inline-block rounded border border-indigo-600 bg-indigo-600 px-12 py-3 text-sm font-medium text-white hover:bg-transparent hover:text-indigo-600 focus:outline-none focus:ring active:text-indigo-500"
                                 >
                                     Get in Touch
@@ -107,26 +105,33 @@ const Hero = () => {
                                 </div>
                                 <div className="lg:py-16">
                                     <h2 className="text-green-800 text-3xl font-bold sm:text-4xl">
-                                        Mobile Phone Recycling
+                                        EV battery Recycling
                                     </h2>
                                     <article className="space-y-4 text-gray-600">
                                         <div className="mt-4">
                                             <ul className="list-disc list-inside">
-                                                <li className="mb-2">
-                                                    Mobile phone recycling begins with the unloading of the units at our recycling facility, where they are scanned and updated in the system.
-                                                </li>
-                                                <li className="mb-2">
-                                                    Once unloaded, the units are separated for recycling and refurbishing. Units for refurbishing go to our refurbishing operations section, while others are sent to recycling.
-                                                </li>
-                                                <li className="mb-2">
-                                                    Devices sent for refurbishing undergo further testing. Those with heavy wear and tear are redirected to the recycling section.
-                                                </li>
-                                                <li className="mb-2">
-                                                    Mobiles designated for recycling undergo manual dismantling to separate components such as the lithium-ion battery, flat panel/LCD, PCBs, and plastic.
-                                                </li>
-                                                <li className="mb-2">
-                                                    After processing, the recovered materials can be used again in a number of different industries, such as electronics, plating, jewelry, automotive, and art foundries.
-                                                </li>
+                                            <li className="mb-2">
+                                    Reduces the need for new mining by recovering valuable materials like lithium, cobalt, and nickel.
+                                </li>
+                                <li className="mb-2">
+                                    Prevents soil and water contamination by keeping hazardous waste out of landfills.
+                                </li>
+                                <li className="mb-2">
+                                    Lowers the cost of raw materials by reusing recovered components.
+                                </li>
+                                <li className="mb-2">
+                                    Creates new job opportunities in the recycling and technology sectors.
+                                </li>
+                                <li className="mb-2">
+                                    Enhances the overall environmental benefits of electric vehicles.
+                                </li>
+                                <li className="mb-2">
+                                    Promotes a circular economy by ensuring materials are reused and not wasted.
+                                </li>
+                                <li className="mb-2">
+                                    Encourages the development of more efficient and advanced recycling technologies.
+                                </li>
+                                
                                             </ul>
                                         </div>
                                     </article>
@@ -139,7 +144,7 @@ const Hero = () => {
                         <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
                             <div className="max-w-3xl">
                                 <h2 className="text-green-800 text-3xl font-bold sm:text-4xl">
-                                    Display Unit Recycling
+                                    EV's are sustainable
                                 </h2>
                             </div>
 
@@ -157,21 +162,28 @@ const Hero = () => {
                                     <article className="space-y-4 text-gray-600">
                                         <div className="mt-4">
                                             <ul className="list-disc list-inside">
-                                                <li className="mb-2">
-                                                    Cathode Ray Tubes (CRT) contain significant amounts of lead and glass which can be recovered and reused.
-                                                </li>
-                                                <li className="mb-2">
-                                                    As a first step, CRT display units are unloaded at our recycling facility and scanned by barcode reader.
-                                                </li>
-                                                <li className="mb-2">
-                                                    The scan details are then uploaded on the system. Next the CRT cutter system separates the glass panel and glass and fluorescent powder (lead & phosphor) is collected.
-                                                </li>
-                                                <li className="mb-2">
-                                                    The process involves glass cutting, and heating through metal band & air blow.
-                                                </li>
-                                                <li className="mb-2">
-                                                    Next, they are sent to the vacuum chamber, following which the lead and phosphor are collected in bags, while the glass is collected in folders.
-                                                </li>
+                                            <li className="mb-2">
+                                    Electric vehicles produce zero tailpipe emissions, reducing air pollution.
+                                </li>
+                                <li className="mb-2">
+                                    EVs can be powered by renewable energy sources, further reducing their carbon footprint.
+                                </li>
+                                <li className="mb-2">
+                                    The efficiency of electric motors leads to lower overall energy consumption compared to internal combustion engines.
+                                </li>
+                                <li className="mb-2">
+                                    EVs contribute to energy independence by reducing reliance on fossil fuels.
+                                </li>
+                                <li className="mb-2">
+                                    The advancement of battery technology is leading to longer-lasting and more sustainable batteries.
+                                </li>
+                                <li className="mb-2">
+                                    Governments and organizations are investing in EV infrastructure, making them more accessible and convenient.
+                                </li>
+                                <li className="mb-2">
+                                    EV adoption promotes technological innovation and economic growth.
+                                </li>
+                                
                                             </ul>
                                         </div>
                                     </article>
@@ -193,32 +205,33 @@ const Hero = () => {
                                 </div>
                                 <div className="lg:py-16">
                                     <h2 className="text-green-800 text-3xl font-bold sm:text-4xl">
-                                        IT Goods Recycling
+                                        Electric Vehical
                                     </h2>
                                     <article className="space-y-4 text-gray-600">
                                         <div className="mt-4">
                                             <ul className="list-disc list-inside">
-                                                <li className="mb-2">
-                                                    I.T. goods include various electronics ranging from desktops, laptops, and servers to printers, scanners, and copiers.
-                                                </li>
-                                                <li className="mb-2">
-                                                    Once these electronics items are received at our processing plant they are checked to determine whether they should be recycled or refurbished.
-                                                </li>
-                                                <li className="mb-2">
-                                                    After segregating the units suitable for refurbishing they are forwarded to our refurbishing section, while the remaining units are sent for recycling.
-                                                </li>
-                                                <li className="mb-2">
-                                                    The electronics sent for recycling are first segregated and then dismantled. During dismantling, the wire and cable components in the devices are taken out and sent for recycling.
-                                                </li>
-                                                <li className="mb-2">
-                                                    Next, the components like LCD, PCB, RAM, SMPS and plastic parts are segregated and recycled separately. The remaining components are sent for processing to the mechanical shredder, following which they are sent to the magnetic separator.
-                                                </li>
-                                                <li className="mb-2">
-                                                    The magnetic separator separates the ferrous components from which iron is extracted. The remainder is then passed through the Eddy Current separator, which separates non-ferrous metals like copper and aluminum.
-                                                </li>
-                                                <li className="mb-2">
-                                                    These metals are then smelted and purified. The plastic components are forwarded for plastic recycling at Attero’s plant.
-                                                </li>
+                                            <li className="mb-2">
+                                    Electric vehicles (EVs) utilize electric motors powered by rechargeable battery packs.
+                                </li>
+                                <li className="mb-2">
+                                    EVs offer significant reductions in greenhouse gas emissions compared to traditional gasoline vehicles.
+                                </li>
+                                <li className="mb-2">
+                                    They require less maintenance due to fewer moving parts in the drivetrain.
+                                </li>
+                                <li className="mb-2">
+                                    EVs can be charged at home, providing convenience and reducing the need for frequent refueling stops.
+                                </li>
+                                <li className="mb-2">
+                                    Many countries offer incentives and subsidies to promote EV adoption, making them more affordable.
+                                </li>
+                                <li className="mb-2">
+                                    EVs contribute to reduced noise pollution in urban areas.
+                                </li>
+                                <li className="mb-2">
+                                    The increasing range of EVs makes them suitable for a wider variety of driving needs.
+                                </li>
+                                
                                             </ul>
                                         </div>
                                     </article>

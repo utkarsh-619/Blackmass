@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import media1 from "@/public/images/media1.jpeg";
+import media1 from "@/public/images/real/StockCake-Electric Vehicle Charging_1720800873.jpg";
 
 const ContactPage = () => {
   return (

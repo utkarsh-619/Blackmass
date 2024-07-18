@@ -1,7 +1,5 @@
 import React, { useEffect } from "react"
 import Glide from '@glidejs/glide'
-// import media1 from '@/public/images/real/StockCake-Colorful Recycling Bins_1720800994.jpg'
-// import media1 from '@/public/images/real/StockCake-Charging Electric Vehicle_1720801074.jpg'
 
 
 export default function slider() {
@@ -34,31 +32,13 @@ export default function slider() {
                     <ul className="whitespace-no-wrap flex-no-wrap [backface-visibility: hidden] [transform-style: preserve-3d] [touch-action: pan-Y] [will-change: transform] relative flex w-full overflow-hidden p-0">
                         <li>
                             <img
-                                src="https://Tailwindmix.b-cdn.net/image-01.jpg"
+                                src="/images/real/collab.jpeg"
                                 className="w-50 max-w-full max-h-full m-auto"
                             />
                         </li>
                         <li>
                             <img
-                                src="https://Tailwindmix.b-cdn.net/image-02.jpg"
-                                className="w-50 max-w-full max-h-full m-auto"
-                            />
-                        </li>
-                        <li>
-                            <img
-                                src="https://Tailwindmix.b-cdn.net/image-03.jpg"
-                                className="w-50 max-w-full max-h-full m-auto"
-                            />
-                        </li>
-                        <li>
-                            <img
-                                src="https://Tailwindmix.b-cdn.net/image-04.jpg"
-                                className="w-50 max-w-full max-h-full m-auto"
-                            />
-                        </li>
-                        <li>
-                            <img
-                                src="https://Tailwindmix.b-cdn.net/image-05.jpg"
+                                src="/images/real/plant.jpg"
                                 className="w-50 max-w-full max-h-full m-auto"
                             />
                         </li>
