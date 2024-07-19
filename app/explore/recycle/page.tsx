@@ -4,7 +4,7 @@ import Image from 'next/image';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
 
-import media1 from '@/public/images/recycle.jpeg';
+import media1 from '@/public/images/real/StockCake-Discarded Battery Pile_1720800846.jpg';
 import media2 from '@/public/images/real/StockCake-Colorful Battery Collection_1720800956.jpg';
 import media3 from '@/public/images/real/StockCake-Electric Car Charging_1720801156.jpg';
 import media4 from '@/public/images/real/StockCake-Charging Electric Vehicle_1720801074.jpg';
