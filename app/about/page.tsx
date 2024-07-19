@@ -175,7 +175,7 @@ const HomePage = () => {
               Founders
             </h2>
             <p className="mt-4 max-w-md text-gray-500">
-              Meet the founders of Black Mass Energies, the pioneers of India's
+              Meet the founders of Black Mass Energies, the pioneers of India&apos;s
               sustainable energy revolution.
             </p>
           </header>

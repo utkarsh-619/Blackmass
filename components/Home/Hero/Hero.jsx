@@ -220,7 +220,7 @@ const Hero = () => {
             <div className="mx-auto max-w-screen-xl px-4 py-16 sm:px-6 sm:py-24 lg:px-8">
               <div className="max-w-3xl">
                 <h2 className="text-green-800 text-3xl font-bold sm:text-4xl">
-                  EV's are sustainable
+                  EV&apos;s are sustainable
                 </h2>
               </div>
 
