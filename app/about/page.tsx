@@ -6,6 +6,7 @@ import media1 from "@/public/images/real/StockCake-Tesla Charging Station_172080
 import media2 from "@/public/images/real/StockCake-Electric Charging Station_1720801100.jpg"
 import AOS from "aos";
 import "aos/dist/aos.css";
+import Link from "next/link";
 
 const HomePage = () => {
   useEffect(() => {
@@ -116,12 +117,6 @@ const HomePage = () => {
 
 
       <div>
-        {/* <div className="flex justify-center">
-          <div className="w-[80%] ">
-            <Image data-aos="fade-up" src={media2} alt="About Lithiam-ion" />
-          </div>
-        </div> */}
-
         <div data-aos="fade-up" className="m-auto w-[80%] mt-16">
           <div  className="mb-8">
             <h1 className="text-4xl font-semiboldbold ">
@@ -187,14 +182,14 @@ const HomePage = () => {
 
           <ul className="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3 justify-items-center">
             <li data-aos="fade-left" className="flex flex-col items-center p-5">
-              <a href="#" className="group block overflow-hidden">
+              <a href="https://www.linkedin.com/in/shivam-kumar-gupta-73679725a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" className="group block overflow-hidden">
                 <img
                   src="/images/founder1.jpg"
                   alt=""
                   className="h-[350px] w-full object-cover transition duration-500 group-hover:scale-105 sm:h-[450px]"
                 />
                 <div className="relative bg-white pt-3 text-center">
-                  <h3 className="font-bold  text-xl text-gray-700 group-hover:underline group-hover:underline-offset-4">
+                  <h3 className="font-bold  text-xl text-gray-950 group-hover:underline group-hover:underline-offset-4">
                     Shivam Kumar Gupta
                   </h3>
                   <h3 className="font-bold  text-xl text-gray-950 group-hover:underline group-hover:underline-offset-4 mb-5">
@@ -211,7 +206,7 @@ const HomePage = () => {
             </li>
 
             <li data-aos="fade-left" className="flex flex-col items-center p-5">
-              <a href="#" className="group block overflow-hidden">
+              <a href="https://www.linkedin.com/in/shashankchaurasia/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" className="group block overflow-hidden">
                 <img
                   src="/images/founder2.jpg"
                   alt=""

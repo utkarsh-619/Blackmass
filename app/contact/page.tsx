@@ -27,8 +27,9 @@ const ContactPage = () => {
               </p>
 
               <div className="mt-8">
-                <a href="#" className="text-2xl font-bold text-green-600">0151 475 4450</a>
-                <address className="mt-2 not-italic">282 Kevin Brook, Imogeneborough, CA 58517</address>
+                <div className="text-2xl font-bold text-green-600">+91 6392161153</div>
+                <div className="text-2xl font-bold text-green-600">+91 9335172143</div>
+                <address className="mt-2 not-italic">Company Address : Sector 21 , Dwarka , New Delhi , Delhi , 110075</address>
               </div>
             </div>
 

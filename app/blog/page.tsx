@@ -39,7 +39,7 @@ const blogPage = () => {
                     src={collab1}
                     alt="First collab image"
                     // width={400}
-                    className="w-full"
+                    className="w-full mb-5"
                   />
                 </div>
                 <div>
@@ -66,7 +66,7 @@ const blogPage = () => {
                       The Partnership with Capeasy
                     </a>
                   </h3>
-                  <p className="text-base text-body-color">
+                  <p className="text-base text-body-color text-justify mb-10">
                     Capeasy, renowned for its investment in innovative and
                     forward-thinking startups, sees immense potential in Black
                     Mass Energies’ vision. By providing the necessary capital,
@@ -80,8 +80,8 @@ const blogPage = () => {
                 </div>
               </div>
             </div>
-            <div className="w-full md:w-1/2 lg:w-1/3 px-4">
-              <div className="max-w-[370px] mx-auto mb-10">
+            <div className="w-full md:w-1/2 lg:w-1/3 mb-16">
+              <div className="max-w-[80%] mx-auto mb-10">
                 <div className="rounded overflow-hidden mb-8">
                   <Image
                     src={collab2}
@@ -103,7 +103,7 @@ const blogPage = () => {
                      leading-loose
                      font-semibold
                      text-white
-                     mb-5
+                     mb-5  
                      "
                   >
                     Mar 15, 2023
@@ -126,7 +126,7 @@ const blogPage = () => {
                       Synergy with Charge Karo
                     </a>
                   </h3>
-                  <p className="text-base text-body-color">
+                  <p className="text-base text-body-color text-justify ">
                     Charge Karo, founded by visionary entrepreneur Raj Mohan
                     Srivastava, provides comprehensive EV charging solutions
                     across India. With a mission to facilitate the widespread
@@ -182,7 +182,7 @@ const blogPage = () => {
                       A Vision for India
                     </a>
                   </h3>
-                  <p className="text-base text-body-color">
+                  <p className="text-base text-body-color text-justify">
                     Black Mass Energies’ vision aligns with India’s broader
                     goals of achieving energy security and sustainability. By
                     ensuring a steady supply of recycled lithium-ion batteries,
